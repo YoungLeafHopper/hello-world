@@ -1,2 +1,3 @@
 # hello-world
-Git Tradition
+
+Lorem Bacon Ipsum!
